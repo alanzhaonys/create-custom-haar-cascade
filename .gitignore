@@ -1,4 +1,4 @@
 .DS_Store
-/input_images
-/negatives
+#/input_images
+#/negatives
 /input_resized_images
